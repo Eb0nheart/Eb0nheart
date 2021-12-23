@@ -4,8 +4,6 @@ My name is Simon Senger. I have an AP degree in Computer Science and started wor
 
 I mainly work within the Microsoft space of frameworks/sdks/packages/tools/etc. but sometimes venture into other languages and technologies (mostly here on my private profile writing silly apps just to learn new stuff).
 
-In the short amount of time i've been developing code, i've started developing my own clean code principles, which i describe below.
-
 ## Cool Code Calisthenics
 
 - Code is book with a story to tell, so write it as such, not as your personal notes.
