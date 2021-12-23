@@ -29,3 +29,6 @@ A todo application, with a twist. All todo's are cleared each day and you will h
 
 2. Minimal IoT
 This is not something that specific, other than me having fun. I have worked with IoT devices in my career and wanted to try building my own little IoT system, with a frontend, backend and use a raspberry pie as IoT device, maybe to use for some custom home automation later on.
+
+3. Extensions
+As mentioned, i mainly work within the Microsoft "namespace". This means that my main language of choice is C#. Therefore i have started this library to add all sorts of extensions which i find i need in my day to day work. I plan on publishing this to nuget at some point, no idea when though, heh.
